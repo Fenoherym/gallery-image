@@ -76,6 +76,7 @@ function App() {
 }
 
 export default App
+```
 
 ## Remarques
 - Assurez-vous que le tableau `images` contient au moins une image pour éviter les erreurs d'index.
