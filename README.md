@@ -23,6 +23,8 @@ Le composant `ImageGallery` est conçu pour afficher une galerie d'images. Il pe
 
 ## Utilisation
 Pour utiliser le composant `ImageGallery`, importez-le dans votre fichier et passez-lui les propriétés nécessaires. Voici un exemple d'utilisation :
+
+```javascript
 import { useState } from 'react';
 import image1 from './assets/img/image1.jpg'
 import image2 from './assets/img/image2.jpg'
